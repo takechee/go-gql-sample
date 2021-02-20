@@ -10,3 +10,9 @@ $ cd go-gql-sample
 $ go mod init github.com/takechee/go-gql-sample
 $ go get github.com/99designs/gqlgen
 ```
+
+## Building the server
+
+```sh
+go run github.com/99designs/gqlgen init
+```
